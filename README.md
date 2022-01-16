@@ -9,5 +9,4 @@ For all current ten teams that are actively competing, this is their placing ove
 
 ## Abu Dhabi Pit Times 2020 - 2021
 This graph compares the pit times between the 2020 and 2021 Abu Dhabi Grand Prix. The Abu Dhabi Grand Prix is the final race for both of these seasons so stakes are always high. Not all drivers are included in this graph due to certain circumstances. This could be either they did not compete in both 2020 and 2021 seasons or the driver retired their car before completing one full pit. This graph shows a good comparison of how the teams did with their fastest pit stops from each race. Half of the drivers included did better in 2021 than 2020 while the other half fell short. 
-
 ![pit times 2020 2021](https://user-images.githubusercontent.com/88803320/149194071-d50e8ab1-c5b9-40ab-9618-7e41747c4d95.png)
