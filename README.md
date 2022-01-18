@@ -12,4 +12,4 @@ This graph compares the pit times between the 2020 and 2021 Abu Dhabi Grand Prix
 ![pit times 2020 2021](https://user-images.githubusercontent.com/88803320/149194071-d50e8ab1-c5b9-40ab-9618-7e41747c4d95.png)
 
 ## Abu Dhabi Position Change Graph
-![lap placement](https://user-images.githubusercontent.com/88803320/149990290-0b14f6fe-3b45-4581-83f2-c4f4806920a7.png)
+![lap placement](https://user-images.githubusercontent.com/88803320/149990560-7b913525-e348-4149-9512-b8a456b03f03.png)
