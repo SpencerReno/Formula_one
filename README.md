@@ -12,4 +12,5 @@ This graph compares the pit times between the 2020 and 2021 Abu Dhabi Grand Prix
 ![pit times 2020 2021](https://user-images.githubusercontent.com/88803320/149194071-d50e8ab1-c5b9-40ab-9618-7e41747c4d95.png)
 
 ## Abu Dhabi Position Change Graph
+Position Changes perlap from the 2021 Abu Dhabi Grand Prix. Mazapin is not included as he did not fully complete a lap in the race. A lot of the positions changes happend from lap 14 to lap 24 as this was the main pit window for most teams on soft and medium tyres. 
 ![lap placement](https://user-images.githubusercontent.com/88803320/149990560-7b913525-e348-4149-9512-b8a456b03f03.png)
