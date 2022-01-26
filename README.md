@@ -19,6 +19,6 @@ Position Changes perlap from the 2021 Abu Dhabi Grand Prix. Mazapin is not inclu
 ## Machine Learning 
 The best way to keep the values even between each team is to track only the last 10 years. It would be unfair to track Farrari vs Haas when Farrari have been competing since the 1950s and Haas only joined in 2016. With That being said this is a machine learning model to predict the constructor placements based on previous years placements. 
 
-This graph below compares the two scores from the random forest model and the kneighbors model. Both had great train scores up in the high 90s, but the testing scores differed with Kneighbors taking the advantage for a score just be low a 96.
+This graph below compares the two scores from the random forest model and the kneighbors model. Both had great train scores up in the high 90s, but the testing scores differed with Kneighbors taking the advantage for a score just below a 96.
 
 ![ModelScores](https://user-images.githubusercontent.com/88803320/151215124-b49b9b65-6fde-4438-90ad-4f7d92902368.png)
