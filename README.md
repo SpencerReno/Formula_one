@@ -14,3 +14,11 @@ This graph compares the pit times between the 2020 and 2021 Abu Dhabi Grand Prix
 ## Abu Dhabi Position Change Graph
 Position Changes perlap from the 2021 Abu Dhabi Grand Prix. Mazapin is not included as he did not fully complete a lap in the race. A lot of the positions changes happend from lap 14 to lap 24 as this was the main pit window for most teams on soft and medium tyres. 
 ![lap placement](https://user-images.githubusercontent.com/88803320/149990560-7b913525-e348-4149-9512-b8a456b03f03.png)
+
+
+## Machine Learning 
+The best way to keep the values even between each team is to track only the last 10 years. It would be unfair to track Farrari vs Haas when Farrari have been competing since the 1950s and Haas only joined in 2016. With That being said this is a machine learning model to predict the constructor placements based on previous years placements. 
+
+This graph below compares the two scores from the random forest model and the kneighbors model. Both had great train scores up in the high 90s, but the testing scores differed with Kneighbors taking the advantage for a score just be low a 96.
+
+![ModelScores](https://user-images.githubusercontent.com/88803320/151215124-b49b9b65-6fde-4438-90ad-4f7d92902368.png)
