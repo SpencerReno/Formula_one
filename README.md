@@ -1,5 +1,5 @@
 # Formula One (WIP)
-Data analytics on Formula One data from 1950-2021
+Data analytics and machine learning on Formula One data from 1950-2021. Most of the visuals and machine learning models will be with recent years. 
 
 ## Constructors Decade Placings
 For all current ten teams that are actively competing, this is their placing over the last decacde. If a team has changed Its name but stayed under the same parent company that has been accounted for and combined under their most recent team name.
@@ -19,6 +19,6 @@ Position Changes perlap from the 2021 Abu Dhabi Grand Prix. Mazapin is not inclu
 ## Machine Learning 
 The best way to keep the values even between each team is to track only the last 10 years. It would be unfair to track Farrari vs Haas when Farrari have been competing since the 1950s and Haas only joined in 2016. With That being said this is a machine learning model to predict the constructor placements based on previous years placements. 
 
-This graph below compares the two scores from the random forest model and the kneighbors model. Both had great train scores up in the high 90s, but the testing scores differed with Kneighbors taking the advantage for a score just below a 96.
+This graph below compares the two scores from the random forest model and the kneighbors model. Both had great train scores up in the high 90s, but the testing scores differed with Kneighbors taking the advantage for a score just below a 96. Aswell, the Kneighbors model determinds its values by the most nearest values. And when predicting team placings you want to find the ones that are nearest to eachother as they will be similar in value. For example a 1st place will be near another 1st place, 2nd will be near other 2nds and so on.
 
 ![ModelScores](https://user-images.githubusercontent.com/88803320/151215124-b49b9b65-6fde-4438-90ad-4f7d92902368.png)
