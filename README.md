@@ -15,6 +15,12 @@ This graph compares the pit times between the 2020 and 2021 Abu Dhabi Grand Prix
 Position Changes perlap from the 2021 Abu Dhabi Grand Prix. Mazapin is not included as he did not fully complete a lap in the race. A lot of the positions changes happend from lap 14 to lap 24 as this was the main pit window for most teams on soft and medium tyres. 
 ![lap placement](https://user-images.githubusercontent.com/88803320/149990560-7b913525-e348-4149-9512-b8a456b03f03.png)
 
+## 2022 Car Vs 2021 Car At Bahrain Quali
+These three graphs show the time differance from the 3 qualification rounds at Bahrain in both 2021 and 2022. Clearly the 2022 car is slower than the 2021 car this was to be expected with some restrictions that were put in place by the FIA. The closest time comparison that could be made is with the Ferrari in q2. This is the closest any 2022 car has been to the 2021 times in the Bahrain race. In 2021 the Ferrari set a time of 1:30.010 and in 2022 the car set a time of 1:30.932. Almost one second slower which in the formula one world is a win vs a loss. This is however the first race of the 2022 season and the teams are just now dialing in the cars. Over time in the 2022 season the cars will become more competitive to the 2021 times as the teams find ways to get more time out of the car.
+![Qual One](https://gyazo.com/fff7eebba75b39f0bf424b8a8cc052fe)
+![Qual Two](https://gyazo.com/e321617efa60f5e51fb774c103cbddd7)
+![Qual Three](https://gyazo.com/32836c92bc8b344edb03f7845b482f89)
+
 
 ## Machine Learning 
 The best way to keep the values even between each team is to track only the last 10 years. It would be unfair to track Farrari vs Haas when Farrari have been competing since the 1950s and Haas only joined in 2016. With That being said this is a machine learning model to predict the constructor placements based on previous years placements. 
