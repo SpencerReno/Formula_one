@@ -1,6 +1,17 @@
 # Formula One (WIP)
 Data analytics and machine learning on Formula One data from 1950-2021. Most of the visuals and machine learning models will be with recent years. 
 
+# 2022 Season Analytics
+
+## Driver Standings
+Current driver point standing for the 2022 season 
+![driverstandings](https://i.gyazo.com/5f1b761236b96c404b6833dc8a5461d5.png)
+
+## Team Standings
+Current team standings for the 2022 season
+
+
+# General Analysis 
 ## Constructors Decade Placings
 For all current ten teams that are actively competing, this is their placing over the last decacde. If a team has changed Its name but stayed under the same parent company that has been accounted for and combined under their most recent team name.
 
@@ -19,9 +30,9 @@ Position Changes perlap from the 2021 Abu Dhabi Grand Prix. Mazapin is not inclu
 These three graphs show the time differance from the 3 qualification rounds at Bahrain in both 2021 and 2022. Clearly the 2022 car is slower than the 2021 car this was to be expected with some restrictions that were put in place by the FIA. The closest time comparison that could be made is with the Ferrari in q2. This is the closest any 2022 car has been to the 2021 times in the Bahrain race. In 2021 the Ferrari set a time of 1:30.010 and in 2022 the car set a time of 1:30.932. Almost one second slower which in the formula one world is a win vs a loss. This is however the first race of the 2022 season and the teams are just now dialing in the cars. Over time in the 2022 season the cars will become more competitive to the 2021 times as the teams find ways to get more time out of the car.
 ![Qual One](https://i.gyazo.com/fff7eebba75b39f0bf424b8a8cc052fe.png)
 
-![Qual Two](https://i.gyazo.com/e321617efa60f5e51fb774c103cbddd7.png)
+![Qual Two](https://i.gyazo.com/32836c92bc8b344edb03f7845b482f89.png)
 
-![Qual Three](https://i.gyazo.com/32836c92bc8b344edb03f7845b482f89.png)
+![Qual Three](https://i.gyazo.com/e321617efa60f5e51fb774c103cbddd7.png)
 
 
 ## Machine Learning 
