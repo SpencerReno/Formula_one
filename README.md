@@ -5,10 +5,11 @@ Data analytics and machine learning on Formula One data from 1950-2021. Most of 
 
 ## Driver Standings
 Current driver point standing for the 2022 season 
-![driverstandings](https://i.gyazo.com/5f1b761236b96c404b6833dc8a5461d5.png)
+![driverstandings](https://i.gyazo.com/e7776d5c7b13cde3abfcad1e6644389f.png)
 
 ## Team Standings
 Current team standings for the 2022 season
+![teamstandings](https://i.gyazo.com/1bfcfa2dd045d08282d489256ad0e9b4.png)
 
 
 # General Analysis 
