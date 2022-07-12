@@ -5,7 +5,12 @@ Data analytics and machine learning on Formula One data from 1950-2021. Most of 
 
 ## Driver Standings
 Current driver point standing for the 2022 season (Austrian Grand Prix)
-![driverstandings](https://i.gyazo.com/78ca377dd27985669e950ac5cea4afad.png)
+![driverstandings](https://i.gyazo.com/c29795a83e2bd768bc3ab99483d9edee.png)
+
+Heres a Zoomed in graph on the battle for the lower half the the drivers who have less than 45 points as of the Austrian Grand Prix.
+
+![zoomedingraph](https://i.gyazo.com/db1565fb0c85b8438cb24e9546676ff9.png)
+
 
 ## Team Standings
 Current team standings for the 2022 season (Austrian Grand Prix)
