@@ -14,7 +14,7 @@ Heres a Zoomed in graph on the battle for the lower half the the drivers who hav
 
 ## Team Standings
 Current team standings for the 2022 season (Austrian Grand Prix)
-![teamstandings](https://i.gyazo.com/4da0c805fccb90e3608612405e8b68dd.png)
+![teamstandings](https://i.gyazo.com/ab9e55e8ab7bab7a5a507690e8ece289.png)
 
 
 # General Analysis 
