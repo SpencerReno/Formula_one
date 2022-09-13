@@ -4,17 +4,17 @@ Data analytics and machine learning on Formula One data from 1950-2021. Most of 
 # 2022 Season Analytics
 
 ## Driver Standings
-Current driver point standing for the 2022 season (Belgian Grand Prix)
-![driverstandings](https://i.gyazo.com/d4d33980a8a04a9db71f98690e5c686d.png)
+Current driver point standing for the 2022 season (Italian Grand Prix)
+![driverstandings](https://i.gyazo.com/8d4c63dd9625b7ede6ee2ef19f65e21e.png)
 
-Heres a Zoomed in graph on the battle for the lower half the the drivers who have less than 45 points as of the Belgian Grand Prix.
+Heres a Zoomed in graph on the battle for the lower half the the drivers who have less than 35 points as of the Italian Grand Prix.
 
-![zoomedingraph](https://i.gyazo.com/5cc9342a74f70c1bdf336f0a8c58deed.png)
+![zoomedingraph](https://i.gyazo.com/627db267bb9fd2a1f5b4a6dbed27d665.png)
 
 
 ## Team Standings
-Current team standings for the 2022 season (Belgian Grand Prix)
-![teamstandings](https://i.gyazo.com/2a2d72403a7bd48da6b1743137d9977d.png)
+Current team standings for the 2022 season (Italian Grand Prix)
+![teamstandings](https://i.gyazo.com/7b9e256baf4f9b190fb186a382c29966.png)
 
 
 # General Analysis 
