@@ -1,23 +1,24 @@
-# Formula One (WIP)
+
 Data analytics and machine learning on Formula One data from 1950-2021. Most of the visuals and machine learning models will be with recent years. 
 
 # 2022 Season Analytics
 
 ## Driver Standings
 Current driver point standing for the 2022 season (Singapore Grand Prix)
-![driverstandings](https://i.gyazo.com/822f0b380c02b3f0f03b4e081d3fdb5a.png)
+![driverstandings](https://i.gyazo.com/aeffa7e16dc127ad46ad0c097755b0bf.png)
 
 Heres a Zoomed in graph on the battle for the lower half the the drivers who have less than 35 points as of the Singapore Grand Prix.
 
-![zoomedingraph](https://i.gyazo.com/2cfc6fdd01426f117f3e3f4ebcc58af9.png)
+![zoomedingraph](https://i.gyazo.com/10e864a61c6ff801d0ec3b0906054561.png)
 
 
 ## Team Standings
 Current team standings for the 2022 season (Singapore Grand Prix)
-![teamstandings](https://i.gyazo.com/7a0f7c5458b97aecc9bd8bd0a0ac745a.png)
+![teamstandings](https://i.gyazo.com/dbc0ffd01a42074a9d933c559dd81df0.png)
 
 
 # General Analysis 
+
 ## Constructors Decade Placings
 For all current ten teams that are actively competing, this is their placing over the last decacde. If a team has changed Its name but stayed under the same parent company that has been accounted for and combined under their most recent team name.
 
