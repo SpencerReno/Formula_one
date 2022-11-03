@@ -4,8 +4,8 @@ Data analytics and machine learning on Formula One data from 1950-2021. Most of 
 # 2022 Season Analytics
 
 ## Driver Standings
-Current driver point standing for the 2022 season (United States Grand Prix)
-![driverstandings](https://i.gyazo.com/11c3842a42c9cd8f8b2051eda3445f3d.png)
+Current driver point standing for the 2022 season (Mexico City Grand Prix)
+![driverstandings](https://i.gyazo.com/8d03c3faaea4caa4606ff7ef4d4c0228.png)
 
 Heres a Zoomed in graph on the battle for the lower half the the drivers who have less than 35 points as of the United States Grand Prix.
 
@@ -13,8 +13,8 @@ Heres a Zoomed in graph on the battle for the lower half the the drivers who hav
 
 
 ## Team Standings
-Current team standings for the 2022 season (United States Grand Prix)
-![teamstandings](https://i.gyazo.com/1268ee1b51be1f1122804a39d07c2738.png)
+Current team standings for the 2022 season (Mexico City Grand Prix)
+![teamstandings](https://i.gyazo.com/4eed28094d77e26507fe5a0a3a0a34c4.png)
 
 
 # General Analysis 
